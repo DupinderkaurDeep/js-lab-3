@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    color: #009973;
+}
+
+#labthree {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: large;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+#labthree:hover {
+    background-color: #6b6868; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
+}
+
+
